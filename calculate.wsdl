@@ -51,7 +51,7 @@
    </wsdl:binding>
    <wsdl:service name="financingService">
       <wsdl:port name="financingPort" binding="ser:financingBinding">
-         <soap:address location="https://thinkibm-services.mybluemix.net/financing/calculate"/>
+         <soap:address location="http://calculator-http-ace.apps.ocp-060001q8qm-ada2.cloud.techzone.ibm.com/financing/calculate"/>
       </wsdl:port>
    </wsdl:service>
 </wsdl:definitions>
