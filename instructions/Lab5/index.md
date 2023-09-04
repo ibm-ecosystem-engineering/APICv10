@@ -135,15 +135,11 @@ for the financing API.
 
     **Type: number**
 
-    **Format: float**
-
     **Description: Monthly payment amount**
 
     The page will look like this:
 
-   ![](images/add_property.png)
-   
-   ![](images/add_property1.png)   
+   ![](images/add_property.png)  
    
    ![](images/tutorial_html_c600b4bb8ec6adee.png)
 
@@ -202,14 +198,9 @@ for the financing API.
 	For **DESCRIPTION** enter `amount calculated successfully`
 	Click Create.
 	
-18. Click Create under Schema for the response 
-	to create API response schema for the new API.
-
-    ![](images/tutorial_html_f584c2696c3ce084.png)
-
-19. Enter `paymentAmount` for **[Name]** and
+18. Enter `paymentAmount` for **[Title]** and
     set the definition **[Type]** 
-    to **[object]**.
+    to **[object]** under **Schema** Section.
     
 	![](images/create_definition.png)
 
@@ -222,15 +213,11 @@ for the financing API.
 
     **Type: number**
 
-    **Format: float**
-
     **Description: Monthly payment amount**
 
     The page will look like this:
 
    ![](images/add_property.png)
-   
-   ![](images/add_property1.png)   
    
     Click **Create** to go back to the main API Editor.
 	
@@ -319,7 +306,7 @@ API definition.
 
     The Map editor will automatically pull in the request parameters
     that you defined earlier.
-
+	
 12. Click **[Done]** to return to the map
     editor.
 
@@ -647,7 +634,7 @@ Google Maps link.
         `invoke_google_geolocate`
 
     -   URL:
-        `http://geolocation-http-ace.apps.ocp-060001q8qm-ada2.cloud.techzone.ibm.com/geolocation/v1/location?&address={zip}`
+        Enter the GeoLocation endpoint provided by the Instructor.
 
     -   [[Stop on error:
         unchecked ]]

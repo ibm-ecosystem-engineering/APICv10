@@ -206,7 +206,7 @@ will configure the proxy call to invoke the endpoint.
 
     ![](images/tutorial_html_41e66c41b43e89ac.png)
 
-13. Add security and enable secret and client-id. Click **Save** to save
+13. Click **Save** to save
     the changes.
 
     ![](images/tutorial_html_5bd00a842ec2bfff.png)
@@ -220,14 +220,13 @@ will configure the proxy call to invoke the endpoint.
     automatically inserted to be able to define multiple run-time
     targets for the service.
 
-3.  In the **[Property value]** text field,
-    type `http://hotelreview-http-ace.apps.ocp-060001q8qm-ada2.cloud.techzone.ibm.com/`
+3.  In the **[Property value]** text field, enter the HotelReview endpoint provided by the Instructor.
 
 4.  Click Add in the [[Catalog Properties]] and select Choose the [Sandbox] for the name and click Create.
 
 5.  Choose [[Sandbox]] and
     for the target-url
-    type `http://hotelreview-http-ace.apps.ocp-060001q8qm-ada2.cloud.techzone.ibm.com/`
+    enter the HotelReview endpoint provided by the Instructor.
 
 ![](images/tutorial_html_f977429f6db6091a.png)
 
