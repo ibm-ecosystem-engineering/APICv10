@@ -73,7 +73,7 @@ Accessories Product using the IBM Consumer application.
 3.  Click the [[API
     Products]] link.  ![](images/tutorial_html_444fff2d8e0d46b7.png)
 
-4.  Notice that Accessories product is listed, even though you
+4.  Notice that Accessories product is not listed, even though you
     just published the Accessories product. Recall that you assigned the
     Accessories product to be visible only by developers who are logged
     in to the portal.

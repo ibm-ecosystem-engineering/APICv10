@@ -139,9 +139,7 @@ for the financing API.
 
     The page will look like this:
 
-   ![](images/add_property.png)  
-   
-   ![](images/tutorial_html_c600b4bb8ec6adee.png)
+   ![](images/add_property.png)     
 
 11. Click [[Paths]] in
     the navigation menu on the left. Then
@@ -191,14 +189,14 @@ for the financing API.
 
   ![](images/tutorial_html_2fc0008e5f75928e.png)
 
-17. Set the schema for the response. Delete any existing response e.g. 200 (if exists).
+17. Delete any existing response e.g. 200 (if exists).
 	Click **Add** in
     the **[Response]** section.
     Enter `200` for **STATUS CODE**.
 	For **DESCRIPTION** enter `amount calculated successfully`
 	Click Create.
 	
-18. Enter `paymentAmount` for **[Title]** and
+18. Set the schema for the response. Enter `paymentAmount` for **[Title]** and
     set the definition **[Type]** 
     to **[object]** under **Schema** Section.
     
