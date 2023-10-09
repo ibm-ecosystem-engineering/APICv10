@@ -255,6 +255,8 @@ API definition.
 
 5. Select **[financingService.]** Then click **[Create]**.
 
+6. Click on the imported financingService. Search and edit the `target-url` with the endpoint provided by the Instructor.
+
  
  Build the Financing API Assembly
 -----------------------------------------------------------------------------------------------------------------------------------------
@@ -414,6 +416,16 @@ existing OpenAPI definition.
     API]] in
     the [[Summary]] page
     to go to the API editor.
+	
+7. Go to Gateway tab and Click on Properties. 
+
+8. Edit the `shipping_svc_url` property value with the Endpoint provided by the Instructor.
+
+9. Click on Catalog Properties and select sandbox.
+
+10. Edit the `shipping_svc_url` property value under `Property Overrides` section, with the Endpoint provided by the Instructor.
+
+11. Save the changes.
 
  Configure payload to be stored in Analytics
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
