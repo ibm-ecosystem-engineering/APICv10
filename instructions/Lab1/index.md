@@ -115,7 +115,7 @@ for HotelReview. Then, we will import it to the online workspace.
 
     ```
 
-    You can also down the file using this link : [hotelreview.yaml](https://github.com/ibm-ecosystem-lab/APICv10/blob/main/hotelreview.yaml)
+    You can also download the file using this link : [hotelreview.yaml](https://github.com/ibm-ecosystem-lab/APICv10/blob/main/hotelreview.yaml)
 
     Choose the downloaded
     [[HotelReview.yaml]] OpenAPI
