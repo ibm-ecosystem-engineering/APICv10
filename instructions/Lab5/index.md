@@ -114,22 +114,22 @@ for the financing API.
 
 7.  Create the model definition for the new API. These definitions are
     used in a few places. Their primary role is to serve as documentation in
-    the developer portal on expected input and output parameters. However,
-    they can also be used for data mapping actions.
+    the developer portal on expected input & output parameters and would also be
+    used for data mapping actions.
     Click **[Definitions]** from the API
     Designer menu on the left. Then,
     click **[Add]** to create a new definition.
 
-8. Enter `paymentAmount` for **[Name]** and
+9. Enter `paymentAmount` for **[Name]** and
     set the definition **[Type]** 
     to **[object]**.
     
 	![](images/create_definition.png)
 
-9.  Click **[Add]** in
+10.  Click **[Add]** in
     the **[Properties]** section    
 
-10. Edit the **property values** using the following values:
+11. Edit the **property values** using the following values:
 
     **Property Name: paymentAmount**
 
