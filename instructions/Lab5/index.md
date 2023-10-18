@@ -667,9 +667,8 @@ Google Maps link.
         text area:
 
 ```
-var apim = require('apim');
 // Save the Google Geocode response body to variable
-var mapsApiRsp = apim.getvariable('google_geocode_response.body');
+var mapsApiRsp = JSON.parse(context.get('google_geocode_response.body'));
 
 // Get location attributes from geocode response body
 var location = mapsApiRsp.results[0].geometry.location;
@@ -677,9 +676,9 @@ var location = mapsApiRsp.results[0].geometry.location;
 // Set up the response data object, concat the latitude and longitude
 var rspObj = {"google_maps_link": "https://www.google.com/maps?q=" + location.lat + "," + location.lng};
 
-// Save the output     
-apim.setvariable('message.body', rspObj)
+// Save the response     
 
+context.message.body.write(rspObj);
 ```
 
   ![](images/tutorial_html_d005e2f600ea91f1.png)
