@@ -253,7 +253,7 @@ query Query {
 }
 ```
 
-    ![](images/tutorial_html_e37331678c3d02b2.png)
+![](images/tutorial_html_e37331678c3d02b2.png)
 
 
  Create a Product and apply GraphQL RateLimits
