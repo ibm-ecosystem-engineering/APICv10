@@ -303,7 +303,7 @@ query Query {
 
 11.  Click Publish to complete publishing the product.
 
-    ![](images/tutorial_html_890ebcd8219b104.png)
+ ![](images/tutorial_html_890ebcd8219b104.png)
 
 
  Test GraphQL API from Developer Portal
