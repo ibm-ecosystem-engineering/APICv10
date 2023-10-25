@@ -33,7 +33,7 @@ cluster and you have been tasked to appropriately configure the environments. No
          in 'Retail'. Secure it with the client-id and client-secret. (You can follow the steps from Lab1 for guidance)
        
        - Use the below as backend url for deposit API
-         http://deposit-http-ace.apps.ocp-060001q8qm-ada2.cloud.techzone.ibm.com/
+         <Instructor will provide the url for backend deposit service>
          
        - Create a product namely 'Deposit' and create two plans with the names 'Silver' and 'Gold'. Follow 
          lab6 for directions.
