@@ -39,7 +39,7 @@ API Connect instance. Note the following requirements and steps:
          the steps from Lab1 for guidance)
        
        - Use the below as backend url for term_plans API
-        http://term-plans-http-ace.apps.ocp-060001q8qm-o6mi.cloud.techzone.ibm.com/
+       <Instructor will provide backend url for term_plans service>
          
        - Enable the API and test it from the Test and Explorer options in toolkit
          
