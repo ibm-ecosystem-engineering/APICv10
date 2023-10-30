@@ -115,7 +115,7 @@ API](https://github.com/ibm-ecosystem-lab/APICv10/tree/main/instructions/Lab8)
 
 	![](images/admin_myaccount.png)	
 
-2. Set the email address `apicvest@apiconnect.com` and Click **Save**.	
+2. Set the email address `<Your email address>` and Click **Save**.	
 
 	![](images/admin_account_email.png)	
 
