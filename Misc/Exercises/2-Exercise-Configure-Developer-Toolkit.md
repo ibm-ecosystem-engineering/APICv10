@@ -15,7 +15,7 @@ Click on 'Download toolkit'. Download the one with 'CLI + Loopback + API Designe
 
 ### Step 2
 
-Extract the 'APIC Designer' and 'apic' CLI files in a directory. You can choose to keep 'credentials.json' and 'designer_credentials.json' files in the same or different directory.
+Extract the downloaded zip file in a directory. You can choose to keep 'credentials.json' and 'designer_credentials.json' files in the same or different directory.
 
 ### Step 3
 
@@ -23,9 +23,15 @@ Create a workspace directory on your machine.
 
 ### Step 4
 
-Run below commands to set the credentials for the toolkit.
+Run below commands to set the credentials for the toolkit. 
 
 `apic client-creds:set <path-to-your-downloads>/credentials.json`
+
+For Windows, apic is the apic.exe present in the extracted zip folder.
+
+`apic.exe client-creds:set <path-to-your-downloads>/credentials.json`
+
+Accept the defauls and continue.
 
 Use the below command to determine the identity provider. 'mgmt_endpoint_url' for your environment will be provided by the instructor.
 
@@ -33,9 +39,17 @@ Use the below command to determine the identity provider. 'mgmt_endpoint_url' fo
 
 ![](images/getRealm.png)
 
+For Windows, apic is the apic.exe present in the extracted zip folder.
+
+`apic.exe identity-providers:list --scope provider --server <mgmt_endpoint_url> --fields title,realm`
+
 Set APIC_DESIGNER_CREDENTIALS OS environment variable for API Designer. For example on MAC, user can pass in the environment variable while launching API Designer.
 
 `APIC_DESIGNER_CREDENTIALS=<path-to-your-downloads-dir>/designer_credentials.json open <path-to-downloaded-api-designer-app>/'API Designer.app'`
+
+For Windows:
+
+![](images/windows_launch_toolkit.png)
 
 It will launch the APIC Designer toolkit and ask you to select the workspace. Choose the directory you created in step 3 and proceed.
 
