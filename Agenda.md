@@ -23,6 +23,7 @@ Set up and configuration of API Connect topology
 7. Introduction to CLI commands
 
 Labs - Create and publish your first API
+
 [Lab 0 : Get Started](https://github.com/ibm-ecosystem-lab/APICv10/tree/main/instructions/Lab0)
 
 [Lab 1 : Create and Secure an API to Proxy an Existing REST Web
@@ -96,7 +97,9 @@ API](https://github.com/ibm-ecosystem-lab/APICv10/tree/main/instructions/Lab8)
 Technical use-case driven Exercises
 
 [Exercise 1](https://github.com/ibm-ecosystem-engineering/APICv10/blob/main/Misc/Exercises/1-Exercise-Banking-useCase.md)
+
 [Exercise 2](https://github.com/ibm-ecosystem-engineering/APICv10/blob/main/Misc/Exercises/2-Exercise-Configure-Developer-Toolkit.md)
+
 [Exercise 3](https://github.com/ibm-ecosystem-engineering/APICv10/blob/main/Misc/Exercises/3-Exercise-Insurance-useCase.md)
 
 
