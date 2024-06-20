@@ -67,27 +67,27 @@ Reserving your own lab environments for API Connect
 
 1. Navigate to [IBM Technology Zone](https://techzone.ibm.com) and log in using your IBM id. You will be greeted with the IBM Technology Zone home page that looks like the screenshot below.
 
-   
+   ![](images/lab0_techzone_main_page.png)
 
 2. Go to TechZone **Certified Base Images > Pre-Installed Software**. Scroll down until you find a tile entry named **CP4I 202x - Base Installation**. Click on the tile or the blue **Reserve** button.
 
-   
+   ![](images/lab0_techzone_certified_base_images_page.png)
 
 3. At the reservation type selection screen, select **Reserve now** for the single environment reservation options. You may choose to schedule an instance at a later time for future use.
 
-   
+   ![](images/lab0_techzone_reservation_1.png)
 
 4. At the reservation details screen, you can name the reservation to your liking. Select the **Practice / Self-Education** option for the reservation purpose. You will be given access to the environment for a maximum duration of 6 days. If you have a Salesforce opportunity ID, you may choose the **Customer Demo** purpose to get access for a maximum duration of 4 weeks.
 
-   
+   ![](images/lab0_techzone_reservation_2.png)
 
 5. For the **Preferred Geography**, select **AP**. Leave the other settings to the default values. Click the checkbox to agree to the IBM TechZone Terms and Conditions. Then, click the blue **Submit** button.
 
-   
+   ![](images/lab0_techzone_reservation_3.png)
 
 6. You will see a confirmation screen that looks like the screenshot below. A confirmation email will also be sent to you when your reservation is ready.
 
-   
+   ![](images/lab0_techzone_reservation_4.png)
 
 Login to API Connect Cloud Manager
 ===========================================================================================
