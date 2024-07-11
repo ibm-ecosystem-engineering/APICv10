@@ -1,8 +1,6 @@
 APIC Workshop Series
 ====================================================================================================================================================================
 
-testing permission
-
 The APIC Workshop Series is a hands-on workshop with lab exercises that
 walk you through designing, publishing, and securing APIs. This workshop
 is for API developers, architects, and line of business people who want
