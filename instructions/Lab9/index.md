@@ -1,16 +1,16 @@
-**APIC Workshop - Lab 9 -- Creating GraphQL API with StepZen**
+**APIC Workshop - Lab 9 -- Creating GraphQL API with API Connect Essentials**
 
 In this lab, you will explore how you can quickly expose a REST backend as a GraphQL API. 
 
-Using StepZen's CLI you can generate your GraphQL schema and resolvers for any backend data source (REST, Databases, GraphQL, Web3) with a few commands.
+Using API Connect Essentials's CLI you can generate your GraphQL schema and resolvers for any backend data source (REST, Databases, GraphQL, Web3) with a few commands.
 
 In this tutorial, you will do the following activities:
 
--   Sign-up for a free account in StepZen
+-   Sign-up for a free account in API Connect Essentials
 
 -   Create GraphQL API for a REST backend
 
--   Deploy GraphQL API in StepZen
+-   Deploy GraphQL API in API Connect Essentials
 
 -   Test the GraphQL API
 
@@ -59,7 +59,7 @@ Experience](https://github.com/ibm-ecosystem-lab/APICv10/tree/main/instructions/
 [Lab 8: Create and test GraphQL Proxy
 API](https://github.com/ibm-ecosystem-lab/APICv10/tree/main/instructions/Lab8)
 
-[Lab 9: Creating GraphQL API with StepZen](https://github.com/ibm-ecosystem-lab/APICv10/tree/main/instructions/Lab9)
+[Lab 9: Creating GraphQL API with API Connect Essentials](https://github.com/ibm-ecosystem-lab/APICv10/tree/main/instructions/Lab9)
 
 Prerequisites: Node.js and npm interface on your local machine. [Click here](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) for instructions.
 
@@ -107,12 +107,8 @@ Prerequisites: Node.js and npm interface on your local machine. [Click here](htt
 8. Modify the Endpoint name to "api/getUsers" and leave the rest as default.
 
      ![](images/lab9-pic89.png)
-    
-    Create a directory on your local machine and navigate to it using CLI:
-    ![](images/lab9-pic6.png)
 
-
-7.  Now go to StepZen dashboard <https://us-east-a.dashboard.ibm.stepzen.com/explorer>. You should see the GraphQL API endpoint there.
+7.  Now go to API Connect Essentials dashboard <https://us-east-a.dashboard.ibm.stepzen.com/explorer>. You should see the GraphQL API endpoint there.
 
     ![](images/lab9-pic11.png)
 
@@ -126,7 +122,7 @@ Summary
 
 Congratulations! You have successfully created a GraphQL API for a REST backend.
 
-To learn more about StepZen, visit <https://stepzen.com/docs>
+To learn more about API Connect Essentials, visit <https://www.ibm.com/docs/en/stepzen>
 
 To learn more about Cloud Pak for Integration and API Life Cycle
 Management, visit <https://www.ibm.com/cloud/cloud-pak-for-integration>
