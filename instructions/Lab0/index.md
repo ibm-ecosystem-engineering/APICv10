@@ -104,7 +104,7 @@ Login to Red Hat OCP Console
    ![](images/ocp_cp4i_credentials.png)
 
 
-Login to API Connect Cloud Manager
+Create API Connect Instances
 ===========================================================================================
 
 1. Open a browser window and login to the Cloud Pak Console with the url and login credentials that you retrieved from the output-usage in previous step.
@@ -113,18 +113,40 @@ Login to API Connect Cloud Manager
 	
 2. 	From the Home screen of the cloud pak console, click on the **Integration instances**.
 	
-	![](images/api_management.png)
+	![](images/integration_instance.png)
 	
-3. You will see instances of API Gateway, API Manager and API management Administration (Cloud Manager).
-	Click on [[apic-min]] at API management administration to access the Cloud manager console.
+3. Create an instance (blue button)
 
-	![](images/cloud_manager.png)
+	![](images/create_instance.png)
+
+4. At the instance creation page, select API Management.
+
+   ![](images/api_management.png)
+
+5. For the instance size, choose small.
+
+   ![](images/cloud_small_replica.png)
+
+6. At the configuration page, select integration as the namespace. Check the license acceptance button. Leave the other settings to their default values and submit.
+
+   ![](images/create_api_management_instance.png)
+
+7. A new API management (API Connect) instance will be provisioned. You will see instances of API Gateway, API Manager and API management Administration (Cloud Manager). The instance will be ready in approximately 30 minutes.
+
+   //todo put newly provisioned picture here
+
+Login to API Connect Cloud Manager
+===========================================================================================
 	
-4. Log in to the Cloud Manager console using the **Common Services User Registry** user registry (if prompted).
+1. Click on [[apic-min]] at API management administration to access the Cloud manager console.
+
+   ![](images/cloud_manager.png)
+
+2. Log in to the Cloud Manager console using the **Common Services User Registry** user registry (if prompted).
 
 	![](images/cloud_manager_login.png)
 	
-5. You will be able to see cloud manager console home screen as shown below.
+3. You will be able to see cloud manager console home screen as shown below.
 
 	![](images/cloud_manager_home.png)
 	
