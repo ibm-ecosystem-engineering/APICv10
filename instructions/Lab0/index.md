@@ -9,7 +9,9 @@ In this tutorial, you will explore the following capabilities:
 
 -   Access the Cloud Pak Console. 
 
-- 	Access the API Connect Cloud Manager Console.
+-   Create API Connect Instances.
+
+- 	 Access the API Connect Cloud Manager Console.
 
 -   Configure an Email server for notifications.
 
@@ -150,7 +152,7 @@ Login to API Connect Cloud Manager
 
 	![](images/cloud_manager_home.png)
 	
- Configure an Email Server
+Configure an Email Server
 ===========================================================================================
 	
 1. Click Resources icon in the left navigation menu or Manage Resources tile.
@@ -173,7 +175,7 @@ Login to API Connect Cloud Manager
 	
 	Make sure that the email is sent successfully and click **Save**.
 	
- Configure sender email address
+Configure sender email address
 ===========================================================================================
 
 1. Click on admin in the top navigation and select My Account.
