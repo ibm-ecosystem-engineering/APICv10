@@ -89,11 +89,25 @@ Reserving your own lab environments for API Connect
 
    ![](images/lab0_techzone_reservation_4.png)
 
+Login to Red Hat OCP Console
+===========================================================================================
+1. Open a browser window and login to the Red Hat OCP Console with the url and credentials provided by the instructor. Choose Login with kube:admin
+
+   ![](images/ocp_console_login_page.png)
+
+2. Navigate to Pipelines > PipelineRuns. Verify whether pipeline run is successful.
+
+   ![](images/ocp_pipeline_succeed.png)
+
+3. Go to latest successful PipelineRun > Logs > output-usage to retrieve the IBM Cloud Pak login credentials.
+
+   ![](images/ocp_cp4i_credentials.png)
+
+
 Login to API Connect Cloud Manager
 ===========================================================================================
 
-1. Open a browser window and login to the Cloud Pak Console with the url
-   and credentials provided by the instructor.
+1. Open a browser window and login to the Cloud Pak Console with the url and login credentials that you retrieved from the output-usage in previous step.
 
 	![](images/cloud_pak_login.png)
 	
@@ -187,3 +201,6 @@ Throughout the tutorial, you explored the key takeaways:
 
 Continue the APIC Workshop! Go to [APIC Workshop Lab 1 - Create and Secure an API](https://github.com/ibm-ecosystem-lab/APICv10/tree/main/instructions/Lab1) to
 learn how to create and secure a new API using API Connect.
+
+
+[def]: images/ocp_console_login_page.png
