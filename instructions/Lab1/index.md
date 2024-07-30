@@ -101,9 +101,7 @@ for HotelReview. Then, we will import it to the online workspace.
 
     ![](images/tutorial_html_993047b3f798317c.png)  
 
-7.  On the next screen, select [[Existing OpenAPI]] under
-    Import, as in the image below. Then
-    click **[Next.]**
+7.  On the next screen, select OpenAPI 2.0. Scroll down and select [[Existing OpenAPI]] under Import, as in the image below. Then, click **[Next.]**
 
     ![](images/tutorial_html_b219e12b9ba30a1c.png)  
 
