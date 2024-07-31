@@ -114,14 +114,13 @@ Prerequisites: Node.js and npm interface on your local machine. [Click here](htt
 
      ![](images/lab9-pic92.png)
 
-10. In the Summary page you can proceed to click "Next". *It will take several minutes for the Endpoint to be shown as Active.
+10. In the Summary page you can proceed to click "Done". *It will take several minutes for the Endpoint to be shown as Active.
 
     ![](images/lab9-pic93.png)
 
 11.  Now go to API Connect Essentials dashboard <https://us-east-a.dashboard.ibm.stepzen.com/explorer>. You should see the GraphQL API endpoint there.
-
-    ![](images/lab9-pic94.png)
-
+    ![](images/lab9-pic95.png)
+    
 12.  From this playground you can test the hosted GraphQL API. You can modify the Query using Query Builder or the text editor provided in the console. After you make the changes just hit the "Execute query" button to see the changes reflected on the right hand section.
 
    ![](images/lab9-pic12.png)
