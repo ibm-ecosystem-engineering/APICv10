@@ -80,6 +80,8 @@ Prerequisites: Node.js and npm interface on your local machine. [Click here](htt
 
     Make sure to verify the account by clicking on the link received in email. The link will redirect you to [IBM Saas Console](https://console.saas.ibm.com/dashboard/subscriptions)
 
+    ![](images/lab9-pic90.png)
+
 3.  After you successfully sign-up, you will by default have subscription to free plan that allows you to host two endpoints and 300k calls/month. Click on "Launch" and it will redirect you to IBM API Connect Essentials Dashboard
 
     ![](images/lab9-pic85.png)
