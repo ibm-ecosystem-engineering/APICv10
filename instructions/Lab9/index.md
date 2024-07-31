@@ -82,7 +82,7 @@ Prerequisites: Node.js and npm interface on your local machine. [Click here](htt
 
     ![](images/lab9-pic90.png)
 
-3.  After you successfully sign-up, you will by default have subscription to free plan that allows you to host two endpoints and 300k calls/month. Click on "Launch" and it will redirect you to IBM API Connect Essentials Dashboard
+4.  After you successfully sign-up, you will by default have subscription to free plan that allows you to host two endpoints and 300k calls/month. Click on "Launch" and it will redirect you to IBM API Connect Essentials Dashboard
 
     ![](images/lab9-pic85.png)
 
@@ -90,31 +90,39 @@ Prerequisites: Node.js and npm interface on your local machine. [Click here](htt
     
     The 'Admin Key' displayed here is used to authenticate and perform the administrative operations, like deployment of APIs in the account; while the 'API Key' is used to authenticate API calls at runtime.
 
-4.  Scroll down and click on the 'Getting Started' icon to go to the getting-started page.
+5.  Scroll down and click on the 'Getting Started' icon to go to the getting-started page.
 
     ![](images/lab9-pic86.png)
 
-5.  Click on the 'Shortcut: Convert REST to GraphQL'. Click "Next"
+6.  Click on the 'Shortcut: Convert REST to GraphQL'. Click "Next"
 
     ![](images/lab9-pic87.png)
 
-6.  We have hosted a REST backend that returns a list of user details. Instructor will provide the url of the service. Choose "GET" method and click "Next".
+7.  We have hosted a REST backend that returns a list of user details. Instructor will provide the url of the service. Choose "GET" method and click "Next".
 
     ![](images/lab9-pic88.png)
 
-7.  You will see the steps required to setup your CLI for API Connect Essentials and connect to your API Connect Essentials account. 
+8.  You will see the steps required to setup your CLI for API Connect Essentials and connect to your API Connect Essentials account. Copy and Paste the command to your local terminal step by step.
 
     ![](images/lab9-pic52.png)
 
-8. Modify the Endpoint name to "api/getUsers" and leave the rest as default.
+    ![](images/lab9-pic91.png)
+
+9. Modify the Endpoint name to "api/getUsers" and leave the rest as default. Copy and Paste the command to your local terminal step by step.
 
      ![](images/lab9-pic89.png)
 
-7.  Now go to API Connect Essentials dashboard <https://us-east-a.dashboard.ibm.stepzen.com/explorer>. You should see the GraphQL API endpoint there.
+     ![](images/lab9-pic92.png)
+
+10. In the Summary page you can proceed to click "Next". *It will take several minutes for the Endpoint to be shown as Active.
+
+    ![](images/lab9-pic93.png)
+
+11.  Now go to API Connect Essentials dashboard <https://us-east-a.dashboard.ibm.stepzen.com/explorer>. You should see the GraphQL API endpoint there.
 
     ![](images/lab9-pic11.png)
 
-8.  From this playground you can test the hosted GraphQL API. You can modify the Query using Query Builder or the text editor provided in the console. After you make the changes just hit the "Execute query" button to see the changes reflected on the right hand section.
+12.  From this playground you can test the hosted GraphQL API. You can modify the Query using Query Builder or the text editor provided in the console. After you make the changes just hit the "Execute query" button to see the changes reflected on the right hand section.
 
    ![](images/lab9-pic12.png)
 
