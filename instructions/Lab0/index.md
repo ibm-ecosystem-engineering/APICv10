@@ -135,12 +135,12 @@ Create API Connect Instances
 
 7. A new API management (API Connect) instance will be provisioned. You will see instances of API-managed enterprise gateway, API management and API management administration (Cloud Manager). The instance will be ready in approximately 30 minutes.
 
-   //todo put newly provisioned picture here
+   ![](images/new_apic_components.png)
 
 Login to API Connect Cloud Manager
 ===========================================================================================
 	
-1. Click on [[apic-min]] at API management administration to access the Cloud manager console.
+1. Click on "apic-min" at API management administration to access the Cloud manager console.
 
    ![](images/cloud_manager.png)
 
@@ -156,6 +156,8 @@ Configure an Email Server
 ===========================================================================================
 	
 1. Click Resources icon in the left navigation menu or Manage Resources tile.
+
+   ![](images/resources_icon.png)
 
 2. Cick Notifications and then Click Dummy mail server.
 
@@ -191,6 +193,8 @@ Configure sender email address
 
 1. Click on Provider Organization icon in the left navigation menu OR 
    Click on Manage Organizations tile from the Cloud Manager console Home.
+
+   ![](images/provider_org_icon.png)
    
 2. Click [[Add-\>Create organization]] to create the provider organization.
    
