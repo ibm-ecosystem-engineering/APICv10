@@ -129,11 +129,11 @@ Create API Connect Instances
 
    ![](images/cloud_small_replica.png)
 
-6. At the configuration page, select integration as the namespace. Check the license acceptance button. Leave the other settings to their default values and submit.
+6. At the configuration page, select integration as the namespace. You can also rename the instance as "apic-min". Check the license acceptance button. Leave the other settings to their default values and click "Create".
 
    ![](images/create_api_management_instance.png)
 
-7. A new API management (API Connect) instance will be provisioned. You will see instances of API Gateway, API Manager and API management Administration (Cloud Manager). The instance will be ready in approximately 30 minutes.
+7. A new API management (API Connect) instance will be provisioned. You will see instances of API-managed enterprise gateway, API management and API management administration (Cloud Manager). The instance will be ready in approximately 30 minutes.
 
    //todo put newly provisioned picture here
 
