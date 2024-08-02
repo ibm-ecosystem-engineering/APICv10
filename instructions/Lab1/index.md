@@ -60,7 +60,7 @@ Experience](https://github.com/ibm-ecosystem-lab/APICv10/tree/main/instructions/
 [Lab 8: Create and test GraphQL Proxy
 API](https://github.com/ibm-ecosystem-lab/APICv10/tree/main/instructions/Lab8)
 
-[Lab 9: Creating GraphQL API with StepZen](https://github.com/ibm-ecosystem-lab/APICv10/tree/main/instructions/Lab9)
+[Lab 9: Creating GraphQL API with API Connect Essentials](https://github.com/ibm-ecosystem-lab/APICv10/tree/main/instructions/Lab9)
 
  Import API to the Developer Workspace
 ===========================================================================================
