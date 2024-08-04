@@ -73,9 +73,13 @@ for the sandbox catalog, sign up and login to Developer Portal.
 
 1. Login to the API Manager.
 
-2. Click **Manage** in the vertical left navigation menu.
+2. Click **Manage** in the vertical left navigation menu or click "Manage catalogs".
+
+    ![](images/lab_2_01.png)
 
 3. Select the **Sandbox** Catalog and click on the **Catalog Settings** tab.
+
+    ![](images/lab_2_02.png)
 
 4. Click on **Portal** in the left navigation menu, you should see as shown in below image.
 
