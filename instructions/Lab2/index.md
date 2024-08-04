@@ -171,9 +171,6 @@ to validate your subscription entitlements.
 
     ![](images/tutorial_html_aba0b5683b88b7d6.png)
 
-2.  Now you\'ve entered the App Dashboard. Here you\'re able to see the
-    analytics of your APIs.
-
  Subscribe to the API Product
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -186,7 +183,7 @@ Product and Plan.
 
 2.  Click the [[hotelreview 1.0.0]] product.
 
-    ![](images/tutorial_html_38168de09ddc40f.png)
+    ![](images/lab_2_04.png)
 
 3.  Click the [[Select]] button
     for the default plan that is listed.
