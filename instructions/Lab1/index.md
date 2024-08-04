@@ -316,6 +316,8 @@ lab is written to the gateway. 
 2.  Click **[Add]** and
     select [Product]**.**
 
+    ![](images/develop_product.png)
+
 3.  On the next screen, select **[New
     Product]**. Then
     click **[Next]**.
