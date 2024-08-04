@@ -147,7 +147,9 @@ will configure the proxy call to invoke the endpoint.
  Configure API Key security
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
-1.  Click [[Security Schemes]].
+1.  Scroll down and Click [[Security Schemes]].
+
+    ![](images/security_schemes.png)
 
 2.  In the [[Security Schemes]] section,
     click
