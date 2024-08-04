@@ -222,7 +222,11 @@ will configure the proxy call to invoke the endpoint.
 
 3.  In the **[Property value]** text field, enter the HotelReview endpoint provided by the Instructor.
 
+    ![](images/property_value.png)
+
 4.  Click Add in the [[Catalog Properties]] and select Choose the [Sandbox] for the name and click Create.
+
+    ![](images/catalog_properties.png)
 
 5.  Choose [[Sandbox]] and
     for the target-url
