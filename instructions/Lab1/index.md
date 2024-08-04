@@ -224,7 +224,7 @@ will configure the proxy call to invoke the endpoint.
 
     ![](images/property_value.png)
 
-4.  Click Add in the [[Catalog Properties]] and select Choose the [Sandbox] for the name and click Create.
+4.  Scroll down and click Add in the [[Catalog Properties]] and select Choose the [Sandbox] for the name and click Create.
 
     ![](images/catalog_properties.png)
 
