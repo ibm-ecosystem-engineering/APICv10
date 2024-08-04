@@ -106,9 +106,11 @@ for the sandbox catalog, sign up and login to Developer Portal.
 	
 **Sign up for API Connect Developer Portal**
 
-1. Click **Create account** in the top navigation of the Developer Portal site.
+1. Sign Out from the admin account and click **Create account** in the top navigation of the Developer Portal site.
 
-2. Fill up the form and click **Sign up**.
+    ![](images/lab_2_03.png)
+
+2. Fill up the form and click **Sign up**. You **must** use another email address. You cannot use the same email address as the admin account.
 
     ![](images/dev_portal_signup.png)
 
