@@ -163,12 +163,12 @@ Configure an Email Server
 
 	![](images/notifications_email.png)
 	
-3. For the Address, enter `smtp-relay.sendinblue.com`
+3. For the Address, enter `smtp.gmail.com`
 	Port, enter `587`
-	Authenticate user, enter `apic.vest@gmail.com`
+	Authenticate user, enter `auto.enablement@gmail.com`
 	Authenticate password will be provided by the instructor as shown below.
 	
-	![](images/email_configuration.png)	
+	![](images/email_configuration2.png)	
 	
 4. Scroll down and click **Test email**.
    Enter your email address and click send email. 	
