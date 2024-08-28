@@ -74,7 +74,7 @@ credentials.
  Create OAuth Service
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-1.  In the API Manager from the main menu on the left,
+1.  In the Cloud Manager from the main menu on the left,
     click [[Resources]].
 
 2.  In the Resources menu, click  [[OAuth Providers-\> Native OAuth
@@ -131,24 +131,25 @@ credentials.
 
     ![](images/tutorial_html_985e9dbc3a3f82c0.png)
 
-11. Open Sandbox Settings follow
+ Add the OAuth Service to the Sandbox Catalog
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+1. Go to API Manager, Open Sandbox Settings follow
     Home-\>Manage Catalogs-\>Sandbox-\>Catalog Settings->API User Registries.
 	From the Sandbox Catalog registry setting, select API User
     Registries and Add App Registry.
+
+    ![](images/user_registry.png)
 
     Use **Edit** option and enable available API registry.
 
     ![](images/tutorial_html_c24f06de482a8ab5.png)
 
- Add the OAuth Service to the Sandbox Catalog
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-1.  From the Sandbox Catalog settings, click [[OAuth
+2.  From the Sandbox Catalog settings, click [[OAuth
     Providers]] in the left navigation menu.
 
-5.  Click [[Edit]].
+3.  Click [[Edit]].
 
-6.  Choose the OAuth service created above. Then
+4.  Choose the OAuth service created above. Then
     click [[Save]].    
 
     ![](images/tutorial_html_6fa9961893476e8e.png)
@@ -208,7 +209,9 @@ your OAuth 2.0 provider.
         ![](images/tutorial_html_9b9f57dc81561ae7.png)
 
 5.  Navigate to the **Security** section and check the **oauth-1 (OAuth)** checkbox. 
-	Make sure **hotelreview** is also selected under scope.  
+	Make sure **hotelreview** is also selected under scope.
+    
+    ![](images/hotel_review_scopes.png)  
 
     ![](images/tutorial_html_c8a8e86664fd2a1.png)
 
