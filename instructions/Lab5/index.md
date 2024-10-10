@@ -178,11 +178,11 @@ for the financing API.
     operation, so go ahead to add the parameters and set the values as below:
 
 ```
-  **Required**   **Name**   **Located In**   **Type**   **Description**
-  -------------- ---------- ---------------- ---------- --------------------------
-  yes            amount     Query            float      amount to finance
-  yes            duration   Query            int 32     length of term in months
-  yes            rate       Query            float      interest rate
+  **Required**   **Name**   **Located In**   **Type**   **Format**             **Description**
+  -------------- ---------- ---------------- ---------- ---------------------  --------------------------
+  yes            amount     Query            number     float                  amount to finance
+  yes            duration   Query            integer    signed 32-bit integer  length of term in months
+  yes            rate       Query            number     float                  interest rate
 
 ```
   Once you have entered the values, the screen will look like this:
